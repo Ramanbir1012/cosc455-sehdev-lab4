@@ -1,4 +1,4 @@
-package edu.towson.cosc.cosc455.rsehde1.lab4
+package edu.towson.towson.cosc.cosc455.rsehde1.lab4
 
 /**
   * COSC 455 Programming Languages: Implementation and Design
